@@ -1,0 +1,47 @@
+.q2 button{
+  margin:20px;
+  padding:25px;
+  min-width: 140px;
+}
+.btnRight{
+  float:right;
+}
+form .error {
+  color: #ff0000;
+
+}
+.warningmsg{
+  color:red;
+}
+.checkbox {
+  text-align:left;
+}
+ul{
+  list-style-type: none;
+  text-align:left;
+}
+
+
+#answers h3{
+  text-align:left;
+}
+
+
+#answers h4{
+  text-align:left;
+}
+
+#answers h2{
+  text-align:left;
+}
+
+#answers ul{
+  margin-left:0px;
+  padding-left:0px;
+  
+}
+
+#delete_answers_button_second{
+  text-align: left;
+
+}
